@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <header>
-      <h1 className="text-8xl font-bold py-10">💵 Converter 💵</h1>
+      <h1 className="text-7xl font-bold py-10 md:text-8xl">💵 Converter 💵</h1>
     </header>
   );
 };
